@@ -17,7 +17,7 @@ meses_anos = df['Ano_Mes'].unique().tolist()
 meses_anos = sorted(meses_anos, reverse=True)
 
 # Título e descrição do dashboard
-st.image("https://content.epadoca.com/images/padaria/padaria-rivera/icon_637509014078982364.png", width=500)
+st.sidebar.image("https://content.epadoca.com/images/padaria/padaria-rivera/icon_637509014078982364.png", width=300)
 st.title('Dashboard de Vendas e Desperdício da Padaria')
 st.markdown('Um histórico sobre as vendas e o desperdício de produtos da padaria')
 
