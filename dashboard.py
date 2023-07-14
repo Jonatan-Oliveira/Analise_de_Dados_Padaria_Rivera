@@ -5,6 +5,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash_auth import BasicAuth
 from prophet import Prophet
+import streamlit
 
 # Carregar o DataFrame com os dados
 df = pd.read_csv('dados_padaria.csv')
