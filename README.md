@@ -39,6 +39,6 @@ Contribuições são bem-vindas! Se você quiser contribuir com melhorias neste 
 5. Abra um pull request.
 
 ## Autores
-- Jonatan (@Jonatan-Oliveira) - [Seu Portfólio](http://seu-portfolio.com)
+- Jonatan (@Jonatan-Oliveira) - [Seu Portfólio]([http://seu-portfolio.com](https://github.com/Jonatan-Oliveira/Analise_de_Dados_Padaria_Rivera)https://github.com/Jonatan-Oliveira/Analise_de_Dados_Padaria_Rivera)
 
 
