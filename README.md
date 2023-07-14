@@ -31,14 +31,6 @@ O Dashboard de Vendas e Desperdício da Padaria é uma aplicação web que utili
 5. Digite o Login 123 e Senha 123
 6. Selecione o mês e o ano desejados no dropdown para visualizar as informações atualizadas.
 
-## Contribuição
-Contribuições são bem-vindas! Se você quiser contribuir com melhorias neste projeto, siga as etapas abaixo:
-1. Faça um fork deste repositório.
-2. Crie um branch para suas alterações (`git checkout -b feature/nova-feature`).
-3. Faça o commit das suas alterações (`git commit -am 'Adicionar nova feature'`).
-4. Faça o push para o branch (`git push origin feature/nova-feature`).
-5. Abra um pull request.
-
 ## Autor
 - Jonatan (@Jonatan-Oliveira) - https://github.com/Jonatan-Oliveira
 
