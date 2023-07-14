@@ -43,7 +43,7 @@ app.layout = html.Div(
         # Dropdown para selecionar o mês e o ano
         dcc.Dropdown(
             id='dropdown-mes-ano',
-            options=[{'label': mes_ano, 'value': mes_ano} for mes_ano in meses_anos],
+            options=[{'label': mes_ano, 'value': mes_ano} for mes_ano in sorted(meses_anos, reverse=True)],
             value=meses_anos[0],
             style={'width': '200px', 'margin': 'auto'}
         ),

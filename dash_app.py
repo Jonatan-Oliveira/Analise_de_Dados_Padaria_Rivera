@@ -13,6 +13,9 @@ df['Ano_Mes'] = df['Data'].dt.strftime('%Y-%m')
 # Criar uma lista de meses e anos únicos para a navegação no storytelling
 meses_anos = df['Ano_Mes'].unique().tolist()
 
+# Ordenar em ordem decrescente
+meses_anos = sorted(meses_anos, reverse=True)
+
 # Título e descrição do dashboard
 st.image("https://content.epadoca.com/images/padaria/padaria-rivera/icon_637509014078982364.png", width=300)
 st.title('Dashboard de Vendas e Desperdício da Padaria')
@@ -89,3 +92,6 @@ else:
         fig_previsao_demanda.add_scatter(x=forecast['ds'], y=forecast['yhat_lower'], mode='lines', name='Limite Inferior')
         fig_previsao_demanda.add_scatter(x=forecast['ds'], y=forecast['yhat_upper'], mode='lines', name='Limite Superior')
         st.plotly_chart(fig_previsao_demanda)
+
+# EXECUTAR NO TERMINAL O COMANDO 
+# streamlit run dash_app.py
