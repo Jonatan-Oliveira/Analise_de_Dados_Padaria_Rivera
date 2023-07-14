@@ -1,0 +1,1001 @@
+Data,Produto,Categoria,Quantidade Vendida,Quantidade Desperdiçada
+2023-09-13,Bolacha (ou biscoito),Produtos que não podem faltar,5,3
+2021-06-14,Cocadas,Doces,8,3
+2019-11-20,Iogurte,Laticínios,2,2
+2021-05-26,Salgados,Produtos que não podem faltar,6,2
+2020-09-20,Sorvetes,Gelados,3,3
+2019-11-15,Refrigerantes,Bebidas,10,2
+2019-07-07,Leite,Laticínios,7,1
+2021-01-21,Sorvetes,Gelados,7,3
+2019-08-09,Sorvetes,Gelados,2,2
+2022-05-22,Requeijão,Laticínios,5,0
+2020-12-11,Bolo,Confeitaria,3,3
+2023-08-09,Sonho,Produtos que não podem faltar,5,3
+2022-02-04,Pão de fôrma,Pães,6,3
+2019-08-03,Biscoitos,Doces,3,2
+2020-10-15,Pão de massa sovada,Pães,1,1
+2023-05-26,Torta,Confeitaria,3,1
+2019-09-07,Salgadinhos,Confeitaria,9,2
+2021-04-28,Pão francês,Pães,10,1
+2021-12-05,Sorvetes,Gelados,4,3
+2019-05-02,Biscoitos,Doces,2,0
+2022-04-17,Sucos,Bebidas,4,1
+2022-02-22,Apresuntado,Frios,3,0
+2021-06-21,Café,Produtos de primeira necessidade,8,0
+2023-03-08,Presunto,Frios,1,2
+2019-12-27,Pudim,Produtos que não podem faltar,7,3
+2021-01-13,Café,Produtos de primeira necessidade,1,3
+2023-01-19,Salgados,Produtos que não podem faltar,6,3
+2019-11-14,Picolés,Gelados,5,2
+2021-05-09,Pão francês,Pães,8,3
+2022-09-02,Café,Produtos de primeira necessidade,5,0
+2020-03-04,Queijo,Laticínios,10,0
+2021-06-25,Picolés,Gelados,2,2
+2019-02-13,Chicletes,Doces,8,0
+2019-11-04,Balas,Doces,2,2
+2023-04-16,Arroz,Produtos de primeira necessidade,4,3
+2021-10-18,Quindim,Produtos que não podem faltar,6,1
+2019-03-28,Arroz,Produtos de primeira necessidade,9,0
+2023-06-05,Apresuntado,Frios,3,0
+2023-05-08,Feijão,Produtos de primeira necessidade,4,2
+2023-09-16,Sucos,Bebidas,2,0
+2020-01-08,Sanduíche,Produtos que não podem faltar,8,3
+2021-04-08,Brigadeiro,Confeitaria,5,3
+2019-05-23,Pão de massa sovada,Pães,8,3
+2022-06-16,Salame,Frios,3,3
+2021-07-07,Tortas doces,Produtos que não podem faltar,9,0
+2022-04-28,Sorvetes,Gelados,2,1
+2020-11-04,Apresuntado,Frios,3,0
+2023-01-23,Sucos,Bebidas,8,3
+2023-06-17,Refrigerantes,Bebidas,6,2
+2021-12-12,Feijão,Produtos de primeira necessidade,5,3
+2019-08-18,Açúcar,Produtos de primeira necessidade,1,2
+2021-02-03,Apresuntado,Frios,7,0
+2022-09-21,Manteiga,Laticínios,4,1
+2019-09-23,Requeijão,Laticínios,9,2
+2023-05-02,Sucos,Bebidas,1,3
+2021-03-23,Sonho,Produtos que não podem faltar,4,1
+2021-02-21,Sonho,Produtos que não podem faltar,1,3
+2019-10-10,Chicletes,Doces,8,0
+2023-03-03,Sorvetes,Gelados,9,2
+2023-12-18,Sonho,Produtos que não podem faltar,7,3
+2022-02-27,Leite,Laticínios,1,3
+2019-10-08,Iogurte,Laticínios,7,2
+2020-06-05,Queijo,Laticínios,5,0
+2022-06-28,Tortas doces,Produtos que não podem faltar,8,2
+2023-03-09,Arroz,Produtos de primeira necessidade,1,2
+2021-01-07,Quindim,Produtos que não podem faltar,2,1
+2020-11-14,Apresuntado,Frios,3,0
+2021-12-08,Queijo,Laticínios,3,3
+2019-09-02,Brigadeiro,Confeitaria,10,3
+2019-07-20,Quindim,Produtos que não podem faltar,10,1
+2019-07-05,Torta,Confeitaria,7,0
+2023-06-17,Feijão,Produtos de primeira necessidade,5,0
+2021-12-23,Arroz,Produtos de primeira necessidade,7,3
+2022-11-14,Mortadela,Frios,4,0
+2019-11-05,Mortadela,Frios,7,0
+2019-10-10,Picolés,Gelados,4,0
+2019-09-23,Refrigerantes,Bebidas,5,0
+2022-07-15,Biscoitos,Doces,1,2
+2021-04-16,Pão francês,Pães,10,3
+2020-01-19,Arroz,Produtos de primeira necessidade,8,3
+2022-06-27,Tortas doces,Produtos que não podem faltar,9,1
+2019-04-04,Sorvetes,Gelados,7,2
+2021-06-02,Pão de massa sovada,Pães,2,0
+2021-03-14,Torta,Confeitaria,10,3
+2023-12-12,Chicletes,Doces,10,3
+2022-03-24,Pão de massa sovada,Pães,1,3
+2023-07-05,Chicletes,Doces,1,1
+2022-07-02,Picolés,Gelados,5,2
+2022-10-25,Bolacha (ou biscoito),Produtos que não podem faltar,1,1
+2021-12-14,Chicletes,Doces,7,3
+2021-10-24,Pão francês,Pães,3,1
+2021-02-02,Manteiga,Laticínios,7,2
+2022-04-15,Salgadinhos,Confeitaria,8,3
+2023-05-21,Pão francês,Pães,10,3
+2021-12-07,Biscoitos,Doces,8,3
+2022-01-14,Mortadela,Frios,1,2
+2023-05-10,Pudim,Produtos que não podem faltar,9,3
+2022-07-25,Açúcar,Produtos de primeira necessidade,4,2
+2020-11-13,Presunto,Frios,5,1
+2021-09-17,Balas,Doces,7,0
+2020-10-03,Chocolates,Doces,5,1
+2022-11-21,Biscoitos,Doces,3,1
+2023-02-27,Chocolates,Doces,1,1
+2022-12-27,Pão doce,Pães,4,0
+2019-02-22,Queijo,Laticínios,3,1
+2021-07-25,Queijo,Laticínios,4,0
+2019-03-12,Requeijão,Laticínios,2,1
+2021-07-25,Sorvetes,Gelados,10,0
+2020-10-16,Salame,Frios,2,2
+2019-11-18,Apresuntado,Frios,7,2
+2021-09-05,Arroz,Produtos de primeira necessidade,8,1
+2023-01-02,Pão de massa sovada,Pães,8,3
+2020-12-09,Queijo,Laticínios,2,1
+2020-06-08,Refrigerantes,Bebidas,4,3
+2022-12-14,Bolacha (ou biscoito),Produtos que não podem faltar,6,0
+2023-12-27,Torta,Confeitaria,8,1
+2021-01-02,Picolés,Gelados,2,3
+2021-04-23,Pão de massa sovada,Pães,9,2
+2023-07-22,Salame,Frios,4,3
+2023-12-19,Sucos,Bebidas,5,2
+2019-02-08,Pão francês,Pães,1,1
+2023-01-12,Tortas doces,Produtos que não podem faltar,3,1
+2022-11-19,Salgadinhos,Confeitaria,5,2
+2022-12-16,Cocadas,Doces,7,1
+2020-07-21,Salgadinhos,Confeitaria,7,3
+2020-08-05,Café,Produtos de primeira necessidade,7,1
+2019-11-23,Balas,Doces,10,0
+2022-06-15,Refrigerantes,Bebidas,4,1
+2019-02-25,Pão de massa sovada,Pães,10,2
+2019-07-08,Bolacha (ou biscoito),Produtos que não podem faltar,2,0
+2022-11-03,Sucos,Bebidas,4,0
+2020-12-23,Sucos,Bebidas,8,1
+2020-04-20,Iogurte,Laticínios,4,0
+2023-11-06,Tortas doces,Produtos que não podem faltar,9,1
+2020-02-22,Sucos,Bebidas,5,0
+2021-08-02,Iogurte,Laticínios,10,1
+2021-09-17,Pão francês,Pães,5,3
+2022-11-08,Biscoitos,Doces,3,2
+2019-08-05,Presunto,Frios,6,1
+2021-11-27,Chocolates,Doces,6,1
+2022-03-25,Presunto,Frios,5,2
+2022-10-20,Presunto,Frios,7,0
+2021-08-08,Chicletes,Doces,3,0
+2021-01-20,Arroz,Produtos de primeira necessidade,3,1
+2022-01-02,Apresuntado,Frios,4,2
+2022-06-08,Pão francês,Pães,6,3
+2023-02-06,Pão doce,Pães,3,3
+2019-12-17,Refrigerantes,Bebidas,6,0
+2020-05-09,Pudim,Produtos que não podem faltar,3,3
+2020-11-27,Balas,Doces,10,2
+2019-08-27,Óleo,Produtos de primeira necessidade,8,3
+2023-08-11,Torta,Confeitaria,5,2
+2022-05-24,Brigadeiro,Confeitaria,8,3
+2019-11-04,Picolés,Gelados,10,1
+2023-12-02,Salgados,Produtos que não podem faltar,7,0
+2023-04-05,Sorvetes,Gelados,6,3
+2021-09-19,Torta,Confeitaria,3,0
+2019-03-07,Refrigerantes,Bebidas,2,3
+2023-04-05,Balas,Doces,10,1
+2023-02-06,Pão de fôrma,Pães,8,2
+2019-05-16,Brigadeiro,Confeitaria,9,3
+2020-08-02,Quindim,Produtos que não podem faltar,1,0
+2019-04-15,Refrigerantes,Bebidas,10,0
+2020-05-01,Salame,Frios,6,3
+2023-10-20,Sorvetes,Gelados,1,1
+2019-06-23,Óleo,Produtos de primeira necessidade,6,0
+2022-03-17,Pão de fôrma,Pães,2,0
+2022-02-10,Sucos,Bebidas,8,3
+2022-03-22,Pão doce,Pães,1,3
+2021-03-21,Arroz,Produtos de primeira necessidade,5,2
+2023-04-25,Sanduíche,Produtos que não podem faltar,5,0
+2022-01-18,Mortadela,Frios,10,0
+2019-06-01,Apresuntado,Frios,9,0
+2020-12-28,Bolo,Confeitaria,6,2
+2020-02-21,Manteiga,Laticínios,4,2
+2022-08-23,Sorvetes,Gelados,2,3
+2020-06-21,Cocadas,Doces,3,1
+2021-04-20,Picolés,Gelados,8,0
+2019-06-15,Torta,Confeitaria,7,0
+2020-01-17,Salame,Frios,9,1
+2020-11-24,Chicletes,Doces,6,1
+2019-05-15,Sucos,Bebidas,2,2
+2023-01-27,Refrigerantes,Bebidas,8,0
+2023-01-25,Presunto,Frios,7,3
+2019-01-19,Refrigerantes,Bebidas,5,2
+2021-01-14,Apresuntado,Frios,3,1
+2021-06-12,Brigadeiro,Confeitaria,4,0
+2020-11-16,Refrigerantes,Bebidas,2,1
+2020-05-23,Iogurte,Laticínios,1,3
+2022-02-04,Salame,Frios,6,0
+2022-04-14,Pão de fôrma,Pães,5,0
+2023-04-20,Apresuntado,Frios,2,2
+2021-08-16,Apresuntado,Frios,1,3
+2019-12-28,Mortadela,Frios,8,3
+2021-02-22,Arroz,Produtos de primeira necessidade,7,0
+2021-03-28,Café,Produtos de primeira necessidade,3,2
+2022-05-24,Salgados,Produtos que não podem faltar,1,1
+2019-11-11,Requeijão,Laticínios,1,1
+2019-10-08,Chicletes,Doces,8,3
+2019-05-02,Sucos,Bebidas,8,1
+2019-07-18,Arroz,Produtos de primeira necessidade,2,1
+2021-04-21,Chocolates,Doces,8,3
+2019-01-25,Iogurte,Laticínios,2,2
+2023-04-10,Mortadela,Frios,8,0
+2022-03-19,Tortas doces,Produtos que não podem faltar,5,0
+2022-11-07,Balas,Doces,8,1
+2020-09-14,Quindim,Produtos que não podem faltar,1,2
+2022-04-27,Mortadela,Frios,3,0
+2020-08-09,Biscoitos,Doces,6,1
+2022-02-04,Torta,Confeitaria,6,0
+2023-12-23,Açúcar,Produtos de primeira necessidade,6,3
+2022-07-27,Brigadeiro,Confeitaria,8,0
+2022-04-16,Biscoitos,Doces,1,2
+2023-09-22,Apresuntado,Frios,10,1
+2021-06-12,Biscoitos,Doces,6,2
+2019-04-12,Chicletes,Doces,9,1
+2021-03-27,Feijão,Produtos de primeira necessidade,9,3
+2020-07-23,Pão francês,Pães,9,1
+2019-10-19,Manteiga,Laticínios,2,0
+2020-10-04,Sorvetes,Gelados,8,0
+2022-08-01,Café,Produtos de primeira necessidade,9,3
+2021-02-27,Biscoitos,Doces,5,3
+2019-01-10,Pão de massa sovada,Pães,1,0
+2019-10-16,Picolés,Gelados,2,3
+2021-03-16,Brigadeiro,Confeitaria,5,0
+2021-09-07,Pão doce,Pães,6,2
+2022-12-21,Croissant,Confeitaria,4,1
+2023-05-28,Café,Produtos de primeira necessidade,6,0
+2021-05-13,Queijo,Laticínios,6,3
+2023-05-17,Picolés,Gelados,3,2
+2023-11-25,Sucos,Bebidas,4,3
+2023-01-27,Sanduíche,Produtos que não podem faltar,9,1
+2023-11-26,Salgados,Produtos que não podem faltar,10,0
+2019-11-17,Bolo,Confeitaria,6,3
+2023-10-06,Requeijão,Laticínios,8,0
+2022-04-14,Bolo,Confeitaria,8,2
+2020-08-21,Brigadeiro,Confeitaria,5,1
+2019-08-15,Pão francês,Pães,3,2
+2022-04-08,Pão doce,Pães,6,1
+2020-11-03,Sucos,Bebidas,10,3
+2020-06-14,Pão de massa sovada,Pães,1,0
+2020-01-01,Feijão,Produtos de primeira necessidade,7,3
+2023-04-14,Iogurte,Laticínios,1,3
+2019-11-12,Croissant,Confeitaria,10,2
+2020-03-19,Iogurte,Laticínios,8,2
+2020-07-06,Óleo,Produtos de primeira necessidade,5,3
+2021-06-13,Picolés,Gelados,1,0
+2022-05-04,Croissant,Confeitaria,9,3
+2022-05-04,Croissant,Confeitaria,10,2
+2020-04-04,Bolacha (ou biscoito),Produtos que não podem faltar,4,1
+2019-11-17,Queijo,Laticínios,8,2
+2021-03-22,Salame,Frios,8,1
+2019-04-12,Queijo,Laticínios,3,2
+2021-03-27,Chocolates,Doces,7,1
+2019-11-24,Óleo,Produtos de primeira necessidade,7,3
+2022-10-24,Sucos,Bebidas,2,0
+2023-02-06,Açúcar,Produtos de primeira necessidade,3,1
+2019-06-24,Sorvetes,Gelados,8,0
+2021-01-09,Quindim,Produtos que não podem faltar,2,1
+2022-03-05,Leite,Laticínios,9,3
+2021-02-26,Brigadeiro,Confeitaria,8,2
+2020-03-05,Pão de fôrma,Pães,7,0
+2019-03-20,Sorvetes,Gelados,9,2
+2022-03-07,Presunto,Frios,4,1
+2019-01-14,Cocadas,Doces,10,2
+2019-03-12,Croissant,Confeitaria,2,1
+2021-03-02,Refrigerantes,Bebidas,5,1
+2020-10-25,Pão de fôrma,Pães,10,3
+2020-09-03,Biscoitos,Doces,10,1
+2019-12-04,Salgadinhos,Confeitaria,9,3
+2023-03-02,Refrigerantes,Bebidas,2,3
+2023-08-04,Brigadeiro,Confeitaria,8,2
+2019-09-12,Chocolates,Doces,2,2
+2022-07-27,Tortas doces,Produtos que não podem faltar,9,0
+2019-08-09,Picolés,Gelados,9,3
+2019-09-15,Apresuntado,Frios,4,2
+2022-10-24,Sucos,Bebidas,10,0
+2019-12-01,Bolacha (ou biscoito),Produtos que não podem faltar,3,2
+2023-04-20,Mortadela,Frios,4,0
+2023-02-09,Chocolates,Doces,8,1
+2020-12-03,Pão de massa sovada,Pães,3,0
+2019-10-07,Croissant,Confeitaria,9,3
+2020-02-17,Açúcar,Produtos de primeira necessidade,7,0
+2021-01-05,Refrigerantes,Bebidas,10,2
+2023-01-05,Sucos,Bebidas,7,2
+2021-12-10,Salgadinhos,Confeitaria,4,2
+2022-05-02,Requeijão,Laticínios,1,1
+2021-03-20,Balas,Doces,3,2
+2022-05-11,Torta,Confeitaria,2,3
+2020-12-25,Salgados,Produtos que não podem faltar,1,0
+2022-04-24,Sucos,Bebidas,8,1
+2022-08-15,Sorvetes,Gelados,1,0
+2019-07-03,Tortas doces,Produtos que não podem faltar,6,1
+2022-10-18,Bolo,Confeitaria,5,2
+2021-06-10,Pão francês,Pães,10,3
+2020-03-17,Café,Produtos de primeira necessidade,5,0
+2021-04-10,Quindim,Produtos que não podem faltar,7,2
+2023-12-26,Mortadela,Frios,5,0
+2020-12-05,Leite,Laticínios,4,0
+2021-10-23,Torta,Confeitaria,10,2
+2021-07-19,Bolacha (ou biscoito),Produtos que não podem faltar,5,0
+2023-07-04,Pudim,Produtos que não podem faltar,8,1
+2019-01-21,Sucos,Bebidas,3,3
+2023-11-24,Salgados,Produtos que não podem faltar,7,0
+2020-01-02,Torta,Confeitaria,6,1
+2021-10-16,Requeijão,Laticínios,4,3
+2021-06-11,Presunto,Frios,9,1
+2021-06-11,Cocadas,Doces,5,0
+2021-12-22,Café,Produtos de primeira necessidade,5,0
+2023-08-04,Pão de fôrma,Pães,2,3
+2022-10-25,Bolacha (ou biscoito),Produtos que não podem faltar,3,0
+2019-06-28,Balas,Doces,3,2
+2020-11-21,Picolés,Gelados,3,3
+2021-11-27,Salgados,Produtos que não podem faltar,5,1
+2021-03-05,Brigadeiro,Confeitaria,6,1
+2019-05-15,Sucos,Bebidas,3,3
+2019-07-05,Óleo,Produtos de primeira necessidade,9,2
+2021-12-08,Tortas doces,Produtos que não podem faltar,10,2
+2022-12-05,Açúcar,Produtos de primeira necessidade,8,1
+2022-04-04,Manteiga,Laticínios,10,3
+2023-05-14,Café,Produtos de primeira necessidade,8,2
+2020-05-20,Feijão,Produtos de primeira necessidade,6,3
+2023-05-17,Pão de fôrma,Pães,9,1
+2019-11-24,Apresuntado,Frios,10,0
+2019-05-23,Leite,Laticínios,8,3
+2021-06-18,Biscoitos,Doces,9,2
+2020-01-17,Picolés,Gelados,5,0
+2021-09-16,Pão de massa sovada,Pães,2,1
+2020-05-27,Brigadeiro,Confeitaria,8,2
+2023-02-22,Pão de massa sovada,Pães,2,0
+2021-09-02,Salgadinhos,Confeitaria,10,2
+2019-09-15,Salgadinhos,Confeitaria,2,3
+2020-06-19,Brigadeiro,Confeitaria,3,2
+2022-07-20,Pudim,Produtos que não podem faltar,3,1
+2020-07-27,Requeijão,Laticínios,1,2
+2020-03-15,Picolés,Gelados,7,0
+2019-07-08,Pão de massa sovada,Pães,9,3
+2021-12-12,Pão de fôrma,Pães,6,3
+2022-10-22,Pão francês,Pães,8,1
+2019-09-09,Café,Produtos de primeira necessidade,8,0
+2022-05-28,Sorvetes,Gelados,5,3
+2023-04-13,Balas,Doces,8,3
+2020-10-14,Feijão,Produtos de primeira necessidade,4,2
+2021-01-07,Pão de massa sovada,Pães,6,3
+2021-02-01,Sorvetes,Gelados,10,3
+2023-03-16,Sucos,Bebidas,4,1
+2023-06-19,Manteiga,Laticínios,7,0
+2021-07-24,Açúcar,Produtos de primeira necessidade,5,3
+2021-10-22,Chicletes,Doces,7,1
+2021-08-26,Presunto,Frios,9,0
+2021-12-20,Picolés,Gelados,4,3
+2022-11-09,Sanduíche,Produtos que não podem faltar,3,1
+2021-09-27,Torta,Confeitaria,6,1
+2020-11-14,Pão de massa sovada,Pães,3,2
+2020-08-14,Bolacha (ou biscoito),Produtos que não podem faltar,2,1
+2023-02-18,Croissant,Confeitaria,3,3
+2023-10-21,Croissant,Confeitaria,9,2
+2020-12-24,Sanduíche,Produtos que não podem faltar,10,3
+2020-07-18,Queijo,Laticínios,2,1
+2023-03-20,Queijo,Laticínios,6,2
+2023-05-01,Mortadela,Frios,6,3
+2022-07-27,Pão francês,Pães,10,3
+2021-10-02,Sucos,Bebidas,2,0
+2020-07-13,Manteiga,Laticínios,5,0
+2019-06-27,Sonho,Produtos que não podem faltar,8,1
+2023-04-05,Queijo,Laticínios,1,1
+2019-12-01,Sucos,Bebidas,5,2
+2019-03-21,Pão de fôrma,Pães,6,2
+2021-08-03,Refrigerantes,Bebidas,7,3
+2023-05-26,Sonho,Produtos que não podem faltar,6,3
+2020-05-26,Bolo,Confeitaria,6,2
+2023-09-22,Refrigerantes,Bebidas,4,2
+2021-01-04,Sucos,Bebidas,1,1
+2019-07-18,Pão de fôrma,Pães,10,2
+2019-07-24,Queijo,Laticínios,8,1
+2022-04-24,Picolés,Gelados,1,0
+2023-08-25,Bolacha (ou biscoito),Produtos que não podem faltar,4,0
+2022-12-10,Sorvetes,Gelados,9,2
+2021-05-15,Salgados,Produtos que não podem faltar,1,2
+2021-06-25,Sucos,Bebidas,2,2
+2022-08-08,Açúcar,Produtos de primeira necessidade,4,1
+2019-09-06,Quindim,Produtos que não podem faltar,8,0
+2020-08-05,Açúcar,Produtos de primeira necessidade,6,1
+2019-09-07,Sucos,Bebidas,2,3
+2019-04-20,Iogurte,Laticínios,5,2
+2019-02-09,Pão de fôrma,Pães,1,0
+2019-01-05,Torta,Confeitaria,1,1
+2022-08-13,Café,Produtos de primeira necessidade,8,3
+2023-05-12,Brigadeiro,Confeitaria,5,0
+2021-02-14,Refrigerantes,Bebidas,6,3
+2019-02-01,Açúcar,Produtos de primeira necessidade,6,2
+2020-07-18,Picolés,Gelados,7,2
+2021-07-17,Sucos,Bebidas,9,2
+2019-11-02,Pão doce,Pães,1,2
+2023-04-12,Apresuntado,Frios,1,3
+2021-12-27,Chocolates,Doces,4,1
+2022-04-14,Salgadinhos,Confeitaria,5,2
+2022-09-01,Balas,Doces,2,1
+2021-07-10,Sucos,Bebidas,3,1
+2021-01-17,Sorvetes,Gelados,3,2
+2021-07-07,Salgadinhos,Confeitaria,6,0
+2022-06-26,Sorvetes,Gelados,6,1
+2020-01-01,Salame,Frios,1,3
+2022-04-27,Bolo,Confeitaria,5,2
+2022-10-12,Arroz,Produtos de primeira necessidade,4,0
+2019-08-08,Café,Produtos de primeira necessidade,6,2
+2019-07-09,Requeijão,Laticínios,8,2
+2021-01-24,Sucos,Bebidas,10,1
+2020-11-23,Chicletes,Doces,8,0
+2020-10-23,Manteiga,Laticínios,7,1
+2021-12-21,Pão de massa sovada,Pães,8,3
+2023-10-03,Presunto,Frios,6,2
+2020-01-03,Sanduíche,Produtos que não podem faltar,7,2
+2021-11-05,Pudim,Produtos que não podem faltar,6,3
+2019-03-01,Pão de fôrma,Pães,7,1
+2021-12-21,Refrigerantes,Bebidas,6,3
+2021-03-10,Manteiga,Laticínios,4,2
+2022-01-06,Biscoitos,Doces,6,0
+2020-11-18,Refrigerantes,Bebidas,6,1
+2021-05-17,Café,Produtos de primeira necessidade,9,2
+2023-05-21,Bolo,Confeitaria,5,1
+2021-01-11,Café,Produtos de primeira necessidade,4,2
+2023-01-17,Sanduíche,Produtos que não podem faltar,8,3
+2021-02-19,Quindim,Produtos que não podem faltar,3,2
+2023-03-14,Sorvetes,Gelados,4,0
+2020-04-10,Sorvetes,Gelados,10,3
+2020-11-05,Refrigerantes,Bebidas,8,1
+2021-06-03,Requeijão,Laticínios,10,0
+2022-05-24,Salame,Frios,10,3
+2021-04-23,Refrigerantes,Bebidas,4,2
+2023-03-25,Refrigerantes,Bebidas,8,3
+2019-04-23,Sucos,Bebidas,4,3
+2020-08-28,Apresuntado,Frios,6,0
+2019-01-06,Sonho,Produtos que não podem faltar,3,2
+2022-02-24,Requeijão,Laticínios,7,1
+2021-12-15,Óleo,Produtos de primeira necessidade,5,3
+2020-04-27,Mortadela,Frios,4,1
+2023-03-12,Açúcar,Produtos de primeira necessidade,10,0
+2021-02-25,Açúcar,Produtos de primeira necessidade,9,1
+2023-05-19,Sorvetes,Gelados,10,1
+2022-04-14,Refrigerantes,Bebidas,9,2
+2022-08-04,Manteiga,Laticínios,3,2
+2022-10-01,Biscoitos,Doces,10,0
+2019-06-02,Salgadinhos,Confeitaria,9,3
+2020-05-06,Refrigerantes,Bebidas,4,2
+2021-09-16,Chicletes,Doces,4,1
+2023-09-07,Pão de massa sovada,Pães,9,0
+2022-06-01,Salgadinhos,Confeitaria,10,3
+2020-06-06,Pão de fôrma,Pães,4,2
+2020-03-15,Apresuntado,Frios,7,2
+2022-04-07,Pão de massa sovada,Pães,7,2
+2021-05-18,Chocolates,Doces,8,3
+2019-01-27,Óleo,Produtos de primeira necessidade,6,1
+2020-02-03,Sucos,Bebidas,7,1
+2021-04-13,Mortadela,Frios,6,1
+2023-08-17,Bolo,Confeitaria,8,0
+2023-11-21,Requeijão,Laticínios,9,0
+2022-02-20,Sorvetes,Gelados,7,1
+2021-11-24,Requeijão,Laticínios,9,0
+2023-02-08,Chocolates,Doces,2,3
+2022-08-13,Mortadela,Frios,2,1
+2021-03-15,Queijo,Laticínios,7,3
+2020-06-28,Pão doce,Pães,3,0
+2022-02-06,Sucos,Bebidas,4,3
+2021-11-19,Queijo,Laticínios,5,1
+2023-01-28,Croissant,Confeitaria,3,2
+2019-10-19,Cocadas,Doces,4,3
+2019-03-15,Manteiga,Laticínios,5,0
+2023-12-02,Sucos,Bebidas,3,0
+2023-07-22,Requeijão,Laticínios,4,3
+2021-11-27,Salgados,Produtos que não podem faltar,8,0
+2023-01-23,Refrigerantes,Bebidas,10,0
+2019-10-12,Sonho,Produtos que não podem faltar,2,2
+2019-03-15,Cocadas,Doces,8,0
+2021-09-26,Óleo,Produtos de primeira necessidade,4,3
+2023-10-06,Croissant,Confeitaria,7,2
+2019-03-07,Chocolates,Doces,10,0
+2019-01-18,Pudim,Produtos que não podem faltar,1,0
+2021-09-18,Biscoitos,Doces,9,2
+2020-02-14,Requeijão,Laticínios,3,0
+2022-07-13,Salgados,Produtos que não podem faltar,9,3
+2021-03-27,Iogurte,Laticínios,1,3
+2022-08-16,Pão de massa sovada,Pães,6,2
+2020-03-26,Cocadas,Doces,5,3
+2022-05-15,Refrigerantes,Bebidas,6,1
+2020-12-11,Chocolates,Doces,2,0
+2020-12-22,Biscoitos,Doces,7,0
+2021-02-10,Picolés,Gelados,10,1
+2023-09-04,Sorvetes,Gelados,6,3
+2021-12-26,Cocadas,Doces,2,2
+2020-04-13,Croissant,Confeitaria,6,2
+2020-09-03,Presunto,Frios,2,1
+2020-08-25,Picolés,Gelados,4,0
+2022-12-26,Sorvetes,Gelados,10,3
+2020-08-18,Picolés,Gelados,6,3
+2021-11-01,Pão francês,Pães,2,1
+2022-09-03,Salame,Frios,3,2
+2022-11-14,Arroz,Produtos de primeira necessidade,2,2
+2023-02-14,Sonho,Produtos que não podem faltar,6,2
+2021-03-25,Pão de massa sovada,Pães,4,1
+2020-06-26,Picolés,Gelados,8,0
+2019-03-17,Pão francês,Pães,8,2
+2021-05-21,Sucos,Bebidas,1,2
+2019-06-25,Iogurte,Laticínios,7,3
+2019-11-22,Pudim,Produtos que não podem faltar,3,2
+2021-11-08,Tortas doces,Produtos que não podem faltar,7,0
+2022-06-01,Requeijão,Laticínios,3,2
+2021-06-14,Balas,Doces,4,2
+2019-01-01,Presunto,Frios,5,2
+2022-05-26,Sorvetes,Gelados,5,1
+2022-12-04,Iogurte,Laticínios,8,1
+2020-04-16,Sucos,Bebidas,6,2
+2020-07-20,Refrigerantes,Bebidas,10,1
+2022-02-17,Açúcar,Produtos de primeira necessidade,1,0
+2023-10-13,Salgados,Produtos que não podem faltar,8,0
+2023-02-09,Apresuntado,Frios,5,3
+2023-12-14,Mortadela,Frios,10,2
+2019-12-23,Café,Produtos de primeira necessidade,5,2
+2019-10-27,Chocolates,Doces,10,0
+2020-06-05,Salgados,Produtos que não podem faltar,2,0
+2021-09-27,Arroz,Produtos de primeira necessidade,5,2
+2023-11-13,Sorvetes,Gelados,2,2
+2022-12-01,Picolés,Gelados,2,3
+2021-07-26,Sucos,Bebidas,3,0
+2022-08-08,Arroz,Produtos de primeira necessidade,2,0
+2020-08-20,Sanduíche,Produtos que não podem faltar,4,1
+2021-09-11,Picolés,Gelados,9,0
+2019-01-26,Refrigerantes,Bebidas,4,1
+2023-04-02,Sanduíche,Produtos que não podem faltar,7,1
+2023-09-18,Açúcar,Produtos de primeira necessidade,6,0
+2020-10-16,Sorvetes,Gelados,3,2
+2022-03-15,Apresuntado,Frios,7,2
+2019-10-26,Cocadas,Doces,4,0
+2022-03-01,Chocolates,Doces,4,3
+2020-08-08,Pão de fôrma,Pães,2,2
+2023-12-01,Sucos,Bebidas,4,2
+2020-09-16,Picolés,Gelados,5,1
+2023-07-08,Chicletes,Doces,6,1
+2023-03-17,Pão de fôrma,Pães,7,1
+2021-02-14,Refrigerantes,Bebidas,2,2
+2021-06-09,Chicletes,Doces,7,2
+2022-07-19,Pudim,Produtos que não podem faltar,2,0
+2019-06-17,Brigadeiro,Confeitaria,6,0
+2020-03-20,Iogurte,Laticínios,10,3
+2023-07-15,Sorvetes,Gelados,6,2
+2023-01-26,Pão de fôrma,Pães,2,3
+2021-01-04,Refrigerantes,Bebidas,7,3
+2019-05-01,Refrigerantes,Bebidas,10,0
+2022-06-18,Óleo,Produtos de primeira necessidade,8,3
+2023-06-27,Mortadela,Frios,9,2
+2022-09-12,Pão de fôrma,Pães,7,2
+2019-09-05,Pão de massa sovada,Pães,2,0
+2020-06-12,Arroz,Produtos de primeira necessidade,6,1
+2021-10-11,Sucos,Bebidas,4,3
+2019-06-23,Queijo,Laticínios,1,1
+2023-02-15,Quindim,Produtos que não podem faltar,5,0
+2023-05-18,Açúcar,Produtos de primeira necessidade,10,2
+2021-07-25,Sorvetes,Gelados,3,3
+2023-12-13,Presunto,Frios,10,3
+2020-07-19,Sorvetes,Gelados,9,0
+2021-10-27,Chocolates,Doces,5,0
+2021-07-16,Bolacha (ou biscoito),Produtos que não podem faltar,6,3
+2020-05-11,Pão doce,Pães,10,2
+2020-01-24,Arroz,Produtos de primeira necessidade,1,1
+2021-12-27,Mortadela,Frios,7,1
+2023-08-23,Chicletes,Doces,7,2
+2020-01-11,Picolés,Gelados,4,2
+2019-01-10,Mortadela,Frios,9,1
+2022-01-22,Sucos,Bebidas,5,1
+2022-07-19,Presunto,Frios,6,0
+2023-06-24,Croissant,Confeitaria,6,1
+2022-06-11,Óleo,Produtos de primeira necessidade,6,3
+2022-07-28,Balas,Doces,10,1
+2022-05-28,Sorvetes,Gelados,2,0
+2020-02-19,Chicletes,Doces,8,0
+2022-09-26,Croissant,Confeitaria,1,0
+2019-09-04,Torta,Confeitaria,5,3
+2023-04-03,Chicletes,Doces,5,0
+2019-04-03,Bolo,Confeitaria,1,1
+2022-02-16,Arroz,Produtos de primeira necessidade,7,0
+2020-12-19,Sorvetes,Gelados,3,3
+2022-11-12,Picolés,Gelados,3,1
+2023-06-04,Manteiga,Laticínios,1,1
+2021-05-01,Picolés,Gelados,9,0
+2019-06-05,Pudim,Produtos que não podem faltar,2,0
+2023-10-03,Requeijão,Laticínios,3,3
+2020-09-06,Torta,Confeitaria,5,2
+2019-03-18,Sorvetes,Gelados,5,0
+2022-02-17,Manteiga,Laticínios,1,3
+2022-05-27,Presunto,Frios,4,3
+2020-11-20,Croissant,Confeitaria,7,3
+2021-07-02,Sonho,Produtos que não podem faltar,9,1
+2021-04-09,Salame,Frios,1,1
+2022-08-21,Picolés,Gelados,2,1
+2022-12-10,Sucos,Bebidas,8,3
+2021-03-28,Mortadela,Frios,7,3
+2020-08-13,Tortas doces,Produtos que não podem faltar,5,0
+2021-03-04,Sorvetes,Gelados,10,3
+2020-11-07,Picolés,Gelados,10,3
+2020-10-06,Quindim,Produtos que não podem faltar,3,2
+2022-09-17,Quindim,Produtos que não podem faltar,2,0
+2019-08-18,Pão doce,Pães,10,1
+2020-09-21,Pão de massa sovada,Pães,5,3
+2023-09-09,Salgados,Produtos que não podem faltar,8,3
+2023-11-08,Torta,Confeitaria,9,0
+2020-07-02,Salame,Frios,8,0
+2019-03-14,Presunto,Frios,2,0
+2020-05-07,Biscoitos,Doces,4,1
+2022-07-10,Refrigerantes,Bebidas,9,1
+2019-08-04,Leite,Laticínios,3,2
+2022-10-22,Queijo,Laticínios,2,2
+2021-06-27,Picolés,Gelados,6,1
+2023-09-09,Picolés,Gelados,2,3
+2023-10-04,Bolo,Confeitaria,1,0
+2021-12-21,Pão doce,Pães,6,3
+2019-10-25,Requeijão,Laticínios,8,0
+2022-04-15,Salame,Frios,6,1
+2022-01-23,Brigadeiro,Confeitaria,5,3
+2021-08-01,Apresuntado,Frios,9,3
+2023-08-03,Picolés,Gelados,6,3
+2021-06-22,Pão doce,Pães,7,0
+2020-11-25,Tortas doces,Produtos que não podem faltar,2,0
+2020-09-19,Salame,Frios,6,3
+2023-05-22,Requeijão,Laticínios,8,3
+2022-10-23,Feijão,Produtos de primeira necessidade,10,0
+2023-07-08,Croissant,Confeitaria,10,0
+2022-01-15,Óleo,Produtos de primeira necessidade,3,3
+2021-05-02,Cocadas,Doces,3,3
+2021-04-17,Brigadeiro,Confeitaria,3,1
+2023-05-08,Balas,Doces,5,0
+2019-04-14,Salgadinhos,Confeitaria,8,0
+2020-02-09,Refrigerantes,Bebidas,7,1
+2023-01-01,Brigadeiro,Confeitaria,10,3
+2022-04-12,Pão de massa sovada,Pães,2,2
+2023-10-26,Requeijão,Laticínios,3,3
+2019-11-20,Pão francês,Pães,4,1
+2022-08-21,Tortas doces,Produtos que não podem faltar,7,1
+2019-12-02,Sucos,Bebidas,6,1
+2020-11-04,Refrigerantes,Bebidas,5,1
+2022-05-06,Bolacha (ou biscoito),Produtos que não podem faltar,10,1
+2021-01-02,Picolés,Gelados,6,2
+2019-04-10,Bolacha (ou biscoito),Produtos que não podem faltar,7,0
+2023-02-14,Óleo,Produtos de primeira necessidade,9,2
+2019-02-04,Presunto,Frios,3,0
+2022-05-20,Presunto,Frios,1,3
+2021-06-12,Pão francês,Pães,7,1
+2021-04-20,Óleo,Produtos de primeira necessidade,7,1
+2023-02-25,Salgados,Produtos que não podem faltar,1,3
+2019-11-14,Pudim,Produtos que não podem faltar,4,3
+2022-05-11,Sucos,Bebidas,3,3
+2019-09-18,Refrigerantes,Bebidas,10,0
+2020-12-24,Picolés,Gelados,7,0
+2021-02-17,Pão doce,Pães,3,0
+2023-07-10,Picolés,Gelados,6,3
+2020-09-06,Balas,Doces,1,1
+2019-02-26,Refrigerantes,Bebidas,5,3
+2023-10-05,Pão de fôrma,Pães,9,1
+2019-08-27,Croissant,Confeitaria,9,2
+2020-12-15,Sorvetes,Gelados,8,1
+2023-11-16,Requeijão,Laticínios,4,1
+2020-11-02,Brigadeiro,Confeitaria,5,0
+2020-10-17,Manteiga,Laticínios,7,2
+2023-01-19,Pão doce,Pães,10,0
+2019-04-26,Pão doce,Pães,6,1
+2019-04-26,Chocolates,Doces,2,2
+2019-08-10,Salame,Frios,8,2
+2020-06-04,Leite,Laticínios,2,1
+2019-08-01,Croissant,Confeitaria,10,1
+2019-08-20,Arroz,Produtos de primeira necessidade,7,3
+2023-09-03,Sucos,Bebidas,5,3
+2023-03-10,Leite,Laticínios,1,0
+2023-07-27,Refrigerantes,Bebidas,10,2
+2020-03-11,Açúcar,Produtos de primeira necessidade,8,2
+2022-10-19,Tortas doces,Produtos que não podem faltar,5,1
+2021-07-17,Pão francês,Pães,7,1
+2020-06-05,Pudim,Produtos que não podem faltar,2,2
+2021-12-18,Picolés,Gelados,10,3
+2020-05-08,Salame,Frios,2,1
+2022-12-14,Café,Produtos de primeira necessidade,1,1
+2022-02-22,Requeijão,Laticínios,3,0
+2022-08-19,Café,Produtos de primeira necessidade,4,3
+2020-11-05,Pão francês,Pães,2,2
+2022-12-09,Biscoitos,Doces,8,0
+2019-02-16,Refrigerantes,Bebidas,6,1
+2023-05-27,Bolacha (ou biscoito),Produtos que não podem faltar,5,1
+2020-09-17,Presunto,Frios,9,3
+2020-11-21,Bolo,Confeitaria,9,0
+2020-01-28,Sucos,Bebidas,4,3
+2021-02-26,Óleo,Produtos de primeira necessidade,5,3
+2023-09-15,Leite,Laticínios,10,1
+2022-10-18,Chicletes,Doces,3,3
+2020-01-01,Presunto,Frios,1,3
+2022-08-08,Salgadinhos,Confeitaria,2,2
+2020-06-02,Bolo,Confeitaria,1,1
+2019-09-14,Refrigerantes,Bebidas,9,0
+2021-03-12,Croissant,Confeitaria,6,2
+2023-08-18,Cocadas,Doces,5,3
+2021-02-11,Mortadela,Frios,7,0
+2019-01-21,Sonho,Produtos que não podem faltar,1,3
+2020-06-13,Óleo,Produtos de primeira necessidade,3,3
+2023-08-08,Picolés,Gelados,4,0
+2023-04-08,Chocolates,Doces,4,0
+2021-03-21,Salgadinhos,Confeitaria,7,1
+2021-10-11,Picolés,Gelados,4,2
+2021-03-27,Torta,Confeitaria,6,3
+2019-03-07,Pão doce,Pães,3,1
+2023-08-26,Queijo,Laticínios,9,3
+2022-09-22,Biscoitos,Doces,8,0
+2021-03-10,Sorvetes,Gelados,6,2
+2021-01-17,Requeijão,Laticínios,7,2
+2020-03-01,Pão francês,Pães,9,0
+2020-11-08,Pão doce,Pães,10,2
+2023-06-22,Arroz,Produtos de primeira necessidade,7,0
+2021-07-01,Pão doce,Pães,7,3
+2019-02-19,Sonho,Produtos que não podem faltar,3,2
+2022-02-09,Sorvetes,Gelados,6,0
+2019-06-10,Sucos,Bebidas,4,2
+2023-09-21,Salgados,Produtos que não podem faltar,3,3
+2019-08-20,Refrigerantes,Bebidas,9,2
+2021-11-17,Pão de massa sovada,Pães,7,1
+2022-03-03,Picolés,Gelados,3,1
+2021-06-07,Quindim,Produtos que não podem faltar,2,0
+2019-10-01,Picolés,Gelados,6,2
+2020-01-28,Pão doce,Pães,6,0
+2019-09-02,Presunto,Frios,3,3
+2020-08-15,Queijo,Laticínios,5,1
+2019-02-06,Feijão,Produtos de primeira necessidade,5,3
+2023-04-07,Salame,Frios,5,2
+2023-05-06,Pão de massa sovada,Pães,6,0
+2022-11-07,Pão doce,Pães,2,0
+2019-11-04,Apresuntado,Frios,5,1
+2021-05-08,Mortadela,Frios,2,2
+2021-07-19,Croissant,Confeitaria,8,0
+2022-03-21,Pão doce,Pães,9,0
+2023-10-05,Sanduíche,Produtos que não podem faltar,2,0
+2020-06-07,Picolés,Gelados,8,2
+2020-08-03,Óleo,Produtos de primeira necessidade,7,2
+2020-07-18,Leite,Laticínios,7,2
+2019-10-01,Pão francês,Pães,7,3
+2023-05-09,Sucos,Bebidas,4,2
+2019-12-28,Pão de fôrma,Pães,1,2
+2020-01-03,Quindim,Produtos que não podem faltar,6,1
+2022-04-06,Quindim,Produtos que não podem faltar,4,3
+2021-05-25,Sucos,Bebidas,6,2
+2019-02-06,Café,Produtos de primeira necessidade,10,0
+2023-10-12,Pão doce,Pães,6,3
+2022-02-03,Sorvetes,Gelados,6,1
+2019-10-08,Salame,Frios,9,0
+2021-02-17,Refrigerantes,Bebidas,4,0
+2022-09-25,Sucos,Bebidas,6,3
+2021-07-23,Refrigerantes,Bebidas,3,0
+2022-02-23,Chocolates,Doces,6,3
+2021-11-14,Cocadas,Doces,2,3
+2020-10-02,Iogurte,Laticínios,1,2
+2020-11-05,Feijão,Produtos de primeira necessidade,8,0
+2019-10-25,Sucos,Bebidas,9,1
+2020-12-15,Biscoitos,Doces,1,0
+2022-03-14,Pão de massa sovada,Pães,10,2
+2020-07-06,Mortadela,Frios,1,3
+2020-06-16,Tortas doces,Produtos que não podem faltar,8,2
+2020-01-08,Pão doce,Pães,5,1
+2023-03-22,Sucos,Bebidas,2,3
+2020-10-19,Salame,Frios,6,0
+2021-02-06,Pão de massa sovada,Pães,4,2
+2023-06-17,Cocadas,Doces,10,1
+2023-11-09,Apresuntado,Frios,7,0
+2019-05-11,Salame,Frios,6,3
+2022-08-21,Sorvetes,Gelados,8,1
+2021-12-07,Biscoitos,Doces,6,2
+2020-04-12,Manteiga,Laticínios,6,1
+2022-01-22,Croissant,Confeitaria,6,2
+2019-02-21,Pão de massa sovada,Pães,2,1
+2020-03-20,Biscoitos,Doces,6,2
+2022-10-04,Refrigerantes,Bebidas,4,2
+2021-05-14,Balas,Doces,7,1
+2022-03-16,Apresuntado,Frios,6,3
+2019-10-10,Picolés,Gelados,4,0
+2020-05-26,Presunto,Frios,6,2
+2019-02-06,Óleo,Produtos de primeira necessidade,9,3
+2019-01-26,Bolo,Confeitaria,8,2
+2021-06-15,Refrigerantes,Bebidas,8,3
+2021-11-13,Picolés,Gelados,1,3
+2020-02-27,Café,Produtos de primeira necessidade,5,0
+2020-04-02,Pão de fôrma,Pães,1,0
+2019-03-07,Sorvetes,Gelados,3,1
+2019-04-16,Bolacha (ou biscoito),Produtos que não podem faltar,2,0
+2023-06-28,Pão de fôrma,Pães,5,0
+2022-02-18,Bolacha (ou biscoito),Produtos que não podem faltar,9,3
+2023-03-14,Mortadela,Frios,10,1
+2019-10-13,Sucos,Bebidas,4,0
+2020-02-04,Picolés,Gelados,2,1
+2023-11-25,Biscoitos,Doces,4,1
+2020-05-17,Croissant,Confeitaria,7,3
+2023-11-16,Presunto,Frios,5,3
+2021-03-08,Cocadas,Doces,9,1
+2023-02-25,Pão doce,Pães,10,0
+2021-06-22,Chicletes,Doces,9,1
+2020-08-15,Sorvetes,Gelados,9,0
+2022-09-22,Croissant,Confeitaria,3,3
+2023-01-08,Pão francês,Pães,2,3
+2020-01-22,Croissant,Confeitaria,5,2
+2022-01-19,Arroz,Produtos de primeira necessidade,5,1
+2022-01-11,Requeijão,Laticínios,1,0
+2022-06-12,Bolacha (ou biscoito),Produtos que não podem faltar,8,2
+2023-03-26,Pão francês,Pães,5,3
+2019-11-18,Arroz,Produtos de primeira necessidade,5,1
+2019-03-07,Brigadeiro,Confeitaria,8,2
+2022-09-16,Salame,Frios,7,2
+2021-06-28,Brigadeiro,Confeitaria,10,1
+2023-07-03,Pão francês,Pães,9,0
+2021-11-07,Salgados,Produtos que não podem faltar,1,1
+2023-08-23,Picolés,Gelados,8,3
+2022-03-25,Feijão,Produtos de primeira necessidade,9,1
+2021-02-27,Apresuntado,Frios,9,3
+2019-03-11,Refrigerantes,Bebidas,1,3
+2022-08-10,Sorvetes,Gelados,3,2
+2019-01-19,Mortadela,Frios,6,3
+2020-11-25,Sucos,Bebidas,2,0
+2019-09-18,Sorvetes,Gelados,6,3
+2023-10-01,Balas,Doces,4,0
+2021-06-19,Bolacha (ou biscoito),Produtos que não podem faltar,1,0
+2020-09-02,Refrigerantes,Bebidas,1,3
+2019-07-09,Manteiga,Laticínios,6,0
+2020-12-22,Pão de fôrma,Pães,6,1
+2021-07-19,Salame,Frios,1,0
+2021-08-11,Sucos,Bebidas,2,1
+2023-08-11,Picolés,Gelados,8,0
+2020-05-10,Biscoitos,Doces,1,2
+2021-03-09,Refrigerantes,Bebidas,1,0
+2023-09-01,Pão de fôrma,Pães,9,1
+2022-05-12,Quindim,Produtos que não podem faltar,5,0
+2021-07-22,Croissant,Confeitaria,4,2
+2022-06-06,Torta,Confeitaria,9,0
+2019-12-28,Chicletes,Doces,4,2
+2023-05-12,Picolés,Gelados,7,3
+2021-05-11,Pão de fôrma,Pães,8,1
+2019-11-26,Pão de fôrma,Pães,7,0
+2023-09-11,Torta,Confeitaria,4,2
+2023-05-20,Picolés,Gelados,9,1
+2019-10-15,Biscoitos,Doces,9,1
+2022-07-04,Refrigerantes,Bebidas,3,2
+2021-03-17,Mortadela,Frios,8,2
+2019-01-15,Biscoitos,Doces,10,3
+2019-06-24,Pão de massa sovada,Pães,6,0
+2023-03-04,Pão de massa sovada,Pães,3,1
+2023-03-02,Café,Produtos de primeira necessidade,2,3
+2023-11-03,Pão de massa sovada,Pães,5,0
+2021-01-23,Refrigerantes,Bebidas,9,1
+2020-09-23,Presunto,Frios,5,3
+2023-04-12,Café,Produtos de primeira necessidade,5,3
+2021-12-13,Biscoitos,Doces,7,1
+2023-03-09,Torta,Confeitaria,5,3
+2022-01-07,Brigadeiro,Confeitaria,8,0
+2023-03-16,Bolo,Confeitaria,4,2
+2020-10-07,Salgadinhos,Confeitaria,9,0
+2021-09-05,Biscoitos,Doces,5,1
+2020-02-02,Mortadela,Frios,9,1
+2021-03-09,Apresuntado,Frios,10,1
+2020-11-25,Requeijão,Laticínios,8,3
+2019-08-21,Balas,Doces,8,2
+2022-01-01,Bolo,Confeitaria,1,1
+2023-03-21,Salame,Frios,8,2
+2022-08-03,Iogurte,Laticínios,3,1
+2020-09-03,Sucos,Bebidas,4,0
+2019-11-08,Chocolates,Doces,10,3
+2019-09-07,Refrigerantes,Bebidas,3,2
+2023-08-08,Arroz,Produtos de primeira necessidade,6,3
+2020-06-04,Chicletes,Doces,8,3
+2019-04-12,Chocolates,Doces,10,0
+2020-07-01,Sanduíche,Produtos que não podem faltar,6,1
+2020-05-26,Arroz,Produtos de primeira necessidade,2,1
+2020-05-08,Pão doce,Pães,2,1
+2020-01-17,Cocadas,Doces,10,2
+2020-09-09,Chocolates,Doces,8,1
+2019-06-04,Brigadeiro,Confeitaria,3,1
+2023-05-16,Pão francês,Pães,9,0
+2020-01-25,Sucos,Bebidas,8,0
+2022-11-25,Salgadinhos,Confeitaria,3,1
+2020-11-21,Açúcar,Produtos de primeira necessidade,3,2
+2021-08-19,Sucos,Bebidas,7,0
+2020-07-07,Iogurte,Laticínios,2,2
+2023-08-10,Quindim,Produtos que não podem faltar,5,0
+2022-01-14,Brigadeiro,Confeitaria,4,3
+2019-08-09,Pão francês,Pães,9,2
+2023-12-05,Arroz,Produtos de primeira necessidade,6,0
+2020-07-19,Pão de massa sovada,Pães,5,0
+2022-06-10,Apresuntado,Frios,1,0
+2022-11-20,Sorvetes,Gelados,10,0
+2021-02-12,Salgadinhos,Confeitaria,2,3
+2019-04-21,Pão de massa sovada,Pães,5,1
+2019-09-18,Picolés,Gelados,7,1
+2021-10-03,Sonho,Produtos que não podem faltar,6,1
+2020-04-05,Bolacha (ou biscoito),Produtos que não podem faltar,3,0
+2019-10-14,Pão francês,Pães,7,0
+2019-12-25,Arroz,Produtos de primeira necessidade,8,0
+2023-10-02,Chocolates,Doces,9,1
+2022-11-21,Sucos,Bebidas,1,3
+2019-12-19,Croissant,Confeitaria,9,3
+2019-10-05,Pão de fôrma,Pães,2,1
+2021-12-04,Presunto,Frios,4,0
+2023-11-05,Bolo,Confeitaria,6,2
+2019-08-11,Cocadas,Doces,7,1
+2021-06-09,Sorvetes,Gelados,3,3
+2020-04-04,Presunto,Frios,3,1
+2021-04-27,Quindim,Produtos que não podem faltar,10,3
+2021-04-18,Salame,Frios,8,3
+2022-08-10,Picolés,Gelados,7,0
+2023-10-08,Brigadeiro,Confeitaria,9,3
+2022-04-19,Feijão,Produtos de primeira necessidade,7,3
+2019-04-06,Presunto,Frios,1,3
+2023-10-18,Mortadela,Frios,3,2
+2022-11-05,Pão francês,Pães,4,1
+2020-09-20,Iogurte,Laticínios,2,2
+2023-01-23,Presunto,Frios,2,3
+2022-08-23,Salgadinhos,Confeitaria,5,0
+2022-07-17,Quindim,Produtos que não podem faltar,9,2
+2019-03-25,Arroz,Produtos de primeira necessidade,6,0
+2023-09-16,Picolés,Gelados,6,2
+2023-11-06,Brigadeiro,Confeitaria,4,3
+2021-12-21,Picolés,Gelados,10,0
+2022-04-03,Refrigerantes,Bebidas,8,0
+2021-06-03,Manteiga,Laticínios,2,2
+2023-09-18,Sucos,Bebidas,1,2
+2019-07-18,Bolacha (ou biscoito),Produtos que não podem faltar,8,1
+2022-06-05,Salgadinhos,Confeitaria,7,0
+2022-09-28,Cocadas,Doces,2,1
+2021-08-02,Picolés,Gelados,5,1
+2023-03-09,Bolo,Confeitaria,4,3
+2020-11-02,Mortadela,Frios,9,2
+2019-09-01,Salgados,Produtos que não podem faltar,7,0
+2021-06-07,Biscoitos,Doces,3,1
+2019-09-19,Refrigerantes,Bebidas,6,2
+2020-01-01,Chocolates,Doces,4,2
+2022-02-24,Sorvetes,Gelados,5,0
+2023-10-02,Sonho,Produtos que não podem faltar,7,1
+2022-03-04,Feijão,Produtos de primeira necessidade,1,1
+2021-01-25,Chocolates,Doces,5,2
+2021-01-17,Pão de massa sovada,Pães,9,2
+2022-03-09,Iogurte,Laticínios,7,0
+2021-07-28,Mortadela,Frios,10,0
+2021-04-12,Presunto,Frios,5,1
+2019-04-05,Pão de massa sovada,Pães,8,1
+2019-06-15,Sorvetes,Gelados,1,3
+2020-06-11,Picolés,Gelados,8,1
+2019-02-25,Queijo,Laticínios,2,0
+2021-11-01,Sucos,Bebidas,1,1
+2023-06-15,Sorvetes,Gelados,2,2
+2020-07-01,Óleo,Produtos de primeira necessidade,10,2
+2021-07-11,Refrigerantes,Bebidas,8,3
+2022-04-03,Queijo,Laticínios,4,2
+2019-09-03,Manteiga,Laticínios,5,0
+2021-05-21,Bolo,Confeitaria,10,2
+2022-05-25,Bolacha (ou biscoito),Produtos que não podem faltar,4,0
+2021-07-05,Sanduíche,Produtos que não podem faltar,7,0
+2022-09-18,Pudim,Produtos que não podem faltar,4,3
+2022-09-09,Chicletes,Doces,9,0
+2019-12-18,Bolo,Confeitaria,8,2
+2022-12-15,Picolés,Gelados,8,1
+2023-04-22,Sanduíche,Produtos que não podem faltar,5,2
+2023-03-04,Torta,Confeitaria,6,0
+2022-07-16,Bolacha (ou biscoito),Produtos que não podem faltar,2,1
+2020-05-23,Feijão,Produtos de primeira necessidade,8,3
+2019-11-19,Cocadas,Doces,2,2
+2019-03-09,Salgadinhos,Confeitaria,6,3
+2021-05-12,Óleo,Produtos de primeira necessidade,2,2
+2023-06-09,Sorvetes,Gelados,10,0
+2020-03-05,Croissant,Confeitaria,7,1
+2019-07-15,Cocadas,Doces,5,2
+2021-02-25,Picolés,Gelados,5,0
+2023-05-03,Iogurte,Laticínios,7,2
+2020-09-23,Iogurte,Laticínios,9,0
+2022-12-26,Pão de massa sovada,Pães,5,0
+2022-03-20,Queijo,Laticínios,7,2
+2023-02-07,Bolo,Confeitaria,3,0
+2020-06-18,Refrigerantes,Bebidas,9,2
+2021-09-27,Açúcar,Produtos de primeira necessidade,3,2
+2019-01-24,Apresuntado,Frios,3,2
+2022-11-10,Açúcar,Produtos de primeira necessidade,10,2
+2022-12-13,Sorvetes,Gelados,5,0
+2022-06-23,Arroz,Produtos de primeira necessidade,10,1
+2023-10-17,Iogurte,Laticínios,1,0
+2023-02-02,Chocolates,Doces,9,0
+2023-09-19,Salgados,Produtos que não podem faltar,1,1
+2023-08-05,Arroz,Produtos de primeira necessidade,8,2
+2020-11-27,Picolés,Gelados,2,3
+2019-08-03,Requeijão,Laticínios,2,3
+2022-05-19,Picolés,Gelados,1,1
+2020-08-04,Sucos,Bebidas,2,3
+2019-10-01,Salgadinhos,Confeitaria,9,1
+2021-07-26,Apresuntado,Frios,1,0
+2023-11-11,Leite,Laticínios,3,3
+2021-04-09,Brigadeiro,Confeitaria,1,1
+2022-01-10,Feijão,Produtos de primeira necessidade,9,2
+2019-12-16,Pão francês,Pães,6,0
+2021-06-04,Leite,Laticínios,8,0
+2019-05-15,Manteiga,Laticínios,8,2
+2022-04-05,Balas,Doces,8,1
+2020-03-22,Balas,Doces,5,2
+2023-02-21,Picolés,Gelados,4,1
+2022-10-12,Torta,Confeitaria,7,0
