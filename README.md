@@ -26,7 +26,7 @@ O Dashboard de Vendas e Desperdício da Padaria é uma aplicação web que utili
 ## Como usar
 1. Faça o clone deste repositório para o seu ambiente local.
 2. Instale as bibliotecas necessárias listadas nos pré-requisitos.
-3. Execute o arquivo `app.py` para iniciar o dashboard.
+3. Execute o arquivo `dashboard.py` para iniciar o dashboard.
 4. Acesse o dashboard no navegador usando o link `http://localhost:8050`.
 5. Selecione o mês e o ano desejados no dropdown para visualizar as informações atualizadas.
 
